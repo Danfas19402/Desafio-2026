@@ -16,7 +16,7 @@ body {
 }
 
 body.light {
-  background: #f2f2f2;
+  background: #afdaf7;
   color: #222;
 }
 
@@ -137,5 +137,9 @@ footer {
   from { opacity: 0; transform: translateY(5px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
+
+
+
 
 
